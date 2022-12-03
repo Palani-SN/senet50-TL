@@ -2,7 +2,7 @@
 
 - Example code to build a customized face prediction model based on vgg16-senet50 pretrained model to identify faces from trained dataset, output of the code looks as shown below
 
-	![](https://github.com/Palani-SN/senet50-TL/blob/main/images/result1.JPG?raw=true)
+	![](https://github.com/Palani-SN/senet50-TL/blob/main/images/result1.jpg?raw=true) 
 
 ## Steps to execute
 
@@ -150,10 +150,10 @@ F:\GitRepos\senet50-TL>
 
 - Group Images
 
-	![](https://github.com/Palani-SN/senet50-TL/blob/main/images/result2.JPG?raw=true)
+	![](https://github.com/Palani-SN/senet50-TL/blob/main/images/result2.jpg?raw=true)
 	
 - Identification of persons in recent Images
 
-	![](https://github.com/Palani-SN/senet50-TL/blob/main/images/aged1.JPG?raw=true)
+	![](https://github.com/Palani-SN/senet50-TL/blob/main/images/aged1.jpg?raw=true)
 	
-	![](https://github.com/Palani-SN/senet50-TL/blob/main/images/aged2.JPG?raw=true)
+	![](https://github.com/Palani-SN/senet50-TL/blob/main/images/aged2.jpg?raw=true)
