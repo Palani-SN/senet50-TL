@@ -1,0 +1,11 @@
+keras==2.8.0
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+keras-vggface==0.6
+mediapipe==0.8.10
+numpy==1.21.3
+opencv-contrib-python==4.5.5.64
+opencv-python==4.5.5.64
+Pillow==9.0.1
+tensorflow==2.8.0
+tensorflow-io-gcs-filesystem==0.24.0

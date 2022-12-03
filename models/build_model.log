@@ -1,0 +1,422 @@
+
+F:\LiT\vid_reader\verified_dataset>python load_data.py
+2022-12-01 19:15:11.216739: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found
+2022-12-01 19:15:11.216995: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+chandler
+-> 1000_1.png
+-> 1001_1.png
+-> 1002_1.png
+-> 1003_1.png
+-> 1004_1.png
+-> 1005_1.png
+-> 1006_1.png
+-> 1007_1.png
+-> 1008_1.png
+-> 1009_1.png
+-> 1010_1.png
+-> 1011_1.png
+-> 1012_1.png
+-> 1013_1.png
+-> 1014_1.png
+-> 1015_1.png
+-> 1016_1.png
+-> 1017_1.png
+-> 1018_1.png
+-> 1019_1.png
+-> 1020_1.png
+-> 1021_1.png
+-> 1022_1.png
+-> 1023_1.png
+-> 1024_1.png
+-> 1025_1.png
+-> 1026_1.png
+-> 1027_1.png
+-> 1028_1.png
+-> 1029_1.png
+-> 1030_1.png
+-> 1031_1.png
+-> 1032_1.png
+-> 1033_1.png
+-> 1034_1.png
+-> 1035_1.png
+-> 1198_1.png
+-> 1199_1.png
+-> 1200_1.png
+-> 1201_1.png
+-> 1202_1.png
+-> 1203_1.png
+-> 1204_1.png
+-> 1205_1.png
+-> 1206_1.png
+-> 1207_1.png
+-> 1208_1.png
+-> 1209_1.png
+-> 1210_1.png
+-> 1211_1.png
+joey
+-> 1697_1.png
+-> 1698_1.png
+-> 1699_1.png
+-> 1700_1.png
+-> 1701_1.png
+-> 1702_1.png
+-> 1703_1.png
+-> 1707_1.png
+-> 24027_1.png
+-> 24028_1.png
+-> 24029_1.png
+-> 24030_1.png
+-> 24031_1.png
+-> 24032_1.png
+-> 24033_1.png
+-> 24034_1.png
+-> 24035_1.png
+-> 24036_1.png
+-> 24037_1.png
+-> 24038_1.png
+-> 24039_1.png
+-> 24040_1.png
+-> 24041_1.png
+-> 24042_1.png
+-> 24043_1.png
+-> 24044_1.png
+-> 24045_1.png
+-> 24046_1.png
+-> 24047_1.png
+-> 24048_1.png
+-> 24049_1.png
+-> 24050_1.png
+-> 24051_1.png
+-> 24052_1.png
+-> 24053_1.png
+-> 24054_1.png
+-> 24055_1.png
+-> 24056_1.png
+-> 24057_1.png
+-> 24058_1.png
+-> 24059_1.png
+-> 24060_1.png
+-> 24061_1.png
+-> 24062_1.png
+-> 24063_1.png
+-> 24064_1.png
+-> 24065_1.png
+-> 24066_1.png
+-> 24067_1.png
+-> 24068_1.png
+monika
+-> 10404_1.png
+-> 10439_1.png
+-> 10440_1.png
+-> 10459_2.png
+-> 10569_1.png
+-> 10571_1.png
+-> 10572_1.png
+-> 10573_1.png
+-> 10574_1.png
+-> 10575_1.png
+-> 10576_1.png
+-> 10577_1.png
+-> 1317_1.png
+-> 1318_1.png
+-> 1319_1.png
+-> 1320_1.png
+-> 1321_1.png
+-> 1322_1.png
+-> 1323_1.png
+-> 1324_1.png
+-> 1325_1.png
+-> 1326_1.png
+-> 1327_1.png
+-> 1328_1.png
+-> 1329_1.png
+-> 1330_1.png
+-> 1331_1.png
+-> 1332_1.png
+-> 1333_1.png
+-> 1334_1.png
+-> 1335_1.png
+-> 1336_1.png
+-> 1337_1.png
+-> 1338_1.png
+-> 1339_1.png
+-> 1340_1.png
+-> 1341_1.png
+-> 1342_1.png
+-> 1343_1.png
+-> 1344_1.png
+-> 1345_1.png
+-> 1346_1.png
+-> 1347_1.png
+-> 1348_1.png
+-> 1349_1.png
+-> 1350_1.png
+-> 1351_1.png
+-> 1352_1.png
+-> 1353_1.png
+-> 1354_1.png
+phoebe
+-> 11199_1.png
+-> 11262_1.png
+-> 1229_1.png
+-> 1230_1.png
+-> 1231_1.png
+-> 1232_1.png
+-> 1233_1.png
+-> 1234_1.png
+-> 12358_1.png
+-> 12359_1.png
+-> 1235_1.png
+-> 1236_1.png
+-> 1237_1.png
+-> 12380_1.png
+-> 12385_1.png
+-> 12386_1.png
+-> 12387_1.png
+-> 12388_1.png
+-> 1238_1.png
+-> 1239_1.png
+-> 1240_1.png
+-> 1241_1.png
+-> 1242_1.png
+-> 1243_1.png
+-> 1244_1.png
+-> 1245_1.png
+-> 1246_1.png
+-> 1247_1.png
+-> 1248_1.png
+-> 1249_1.png
+-> 1250_1.png
+-> 1251_1.png
+-> 1252_1.png
+-> 1253_1.png
+-> 1254_1.png
+-> 1255_1.png
+-> 1256_1.png
+-> 1257_1.png
+-> 1258_1.png
+-> 1259_1.png
+-> 1260_1.png
+-> 1261_1.png
+-> 1262_1.png
+-> 1263_1.png
+-> 1264_1.png
+-> 1265_1.png
+-> 1266_1.png
+-> 1267_1.png
+-> 1268_1.png
+-> 1269_1.png
+rachel
+-> 10377_1.png
+-> 10378_1.png
+-> 10381_1.png
+-> 10386_1.png
+-> 10387_1.png
+-> 10388_1.png
+-> 10390_1.png
+-> 10391_1.png
+-> 10392_1.png
+-> 10394_1.png
+-> 10395_1.png
+-> 10396_1.png
+-> 10397_1.png
+-> 10399_1.png
+-> 10400_1.png
+-> 10402_1.png
+-> 11384_1.png
+-> 11385_1.png
+-> 11386_1.png
+-> 11387_1.png
+-> 11388_1.png
+-> 11389_1.png
+-> 11390_1.png
+-> 11391_1.png
+-> 11392_1.png
+-> 11393_1.png
+-> 11394_1.png
+-> 11395_1.png
+-> 11396_1.png
+-> 11397_1.png
+-> 11398_1.png
+-> 11399_1.png
+-> 11400_1.png
+-> 11401_1.png
+-> 11402_1.png
+-> 11403_1.png
+-> 11404_1.png
+-> 11405_1.png
+-> 11406_1.png
+-> 11407_1.png
+-> 11408_1.png
+-> 11409_1.png
+-> 11410_1.png
+-> 11411_1.png
+-> 11412_1.png
+-> 11413_1.png
+-> 11414_1.png
+-> 11415_1.png
+-> 11416_1.png
+-> 11417_1.png
+ross
+-> 10405_2.png
+-> 10407_2.png
+-> 10408_1.png
+-> 10414_1.png
+-> 10415_2.png
+-> 10416_1.png
+-> 10417_2.png
+-> 10419_2.png
+-> 10426_2.png
+-> 10427_2.png
+-> 10428_1.png
+-> 10429_2.png
+-> 10430_2.png
+-> 10431_2.png
+-> 10433_2.png
+-> 10434_1.png
+-> 10435_2.png
+-> 10436_2.png
+-> 10437_2.png
+-> 10438_2.png
+-> 10447_2.png
+-> 10448_2.png
+-> 10449_1.png
+-> 10450_1.png
+-> 10451_2.png
+-> 10452_2.png
+-> 10453_2.png
+-> 10454_2.png
+-> 10455_2.png
+-> 10456_1.png
+-> 10457_1.png
+-> 10458_1.png
+-> 10459_1.png
+-> 10460_1.png
+-> 10461_1.png
+-> 10462_1.png
+-> 10463_1.png
+-> 10464_1.png
+-> 10465_1.png
+-> 10466_1.png
+-> 10467_2.png
+-> 10468_2.png
+-> 10469_2.png
+-> 10470_2.png
+-> 10471_2.png
+-> 10472_2.png
+-> 10473_2.png
+-> 10474_1.png
+-> 10475_1.png
+-> 10476_1.png
+2022-12-01 19:15:21.617239: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found
+2022-12-01 19:15:21.622505: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cublas64_11.dll'; dlerror: cublas64_11.dll not found
+2022-12-01 19:15:21.627155: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cublasLt64_11.dll'; dlerror: cublasLt64_11.dll not found
+2022-12-01 19:15:21.632916: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cufft64_10.dll'; dlerror: cufft64_10.dll not found
+2022-12-01 19:15:21.636801: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'curand64_10.dll'; dlerror: curand64_10.dll not found
+2022-12-01 19:15:21.641093: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cusolver64_11.dll'; dlerror: cusolver64_11.dll not found
+2022-12-01 19:15:21.645775: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cusparse64_11.dll'; dlerror: cusparse64_11.dll not found
+2022-12-01 19:15:21.653396: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cudnn64_8.dll'; dlerror: cudnn64_8.dll not found
+2022-12-01 19:15:21.662069: W tensorflow/core/common_runtime/gpu/gpu_device.cc:1850] Cannot dlopen some GPU libraries. Please make sure the missing libraries mentioned above are installed properly if you would like to use GPU. Follow the guide at https://www.tensorflow.org/install/gpu for how to download and setup the required libraries for your platform.
+Skipping registering GPU devices...
+2022-12-01 19:15:21.749791: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+False
+True
+True
+(300, 224, 224, 3) float32
+(300,) int32
+Epoch 1/20
+2022-12-01 19:15:37.524670: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 102760448 exceeds 10% of free system memory.
+2022-12-01 19:15:38.350069: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 99123200 exceeds 10% of free system memory.
+2022-12-01 19:15:38.540072: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 99123200 exceeds 10% of free system memory.
+2022-12-01 19:15:39.295904: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 99123200 exceeds 10% of free system memory.
+2022-12-01 19:15:39.596628: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 99123200 exceeds 10% of free system memory.
+10/10 [==============================] - 42s 3s/step - loss: 1.2191 - accuracy: 0.7967
+Epoch 2/20
+10/10 [==============================] - 31s 3s/step - loss: 0.0340 - accuracy: 0.9967
+Epoch 3/20
+10/10 [==============================] - 32s 3s/step - loss: 0.0097 - accuracy: 0.9967
+Epoch 4/20
+10/10 [==============================] - 31s 3s/step - loss: 3.0015e-05 - accuracy: 1.0000
+Epoch 5/20
+10/10 [==============================] - 32s 3s/step - loss: 2.9502e-05 - accuracy: 1.0000
+Epoch 6/20
+10/10 [==============================] - 32s 3s/step - loss: 2.8972e-05 - accuracy: 1.0000
+Epoch 7/20
+10/10 [==============================] - 32s 3s/step - loss: 2.7913e-05 - accuracy: 1.0000
+Epoch 8/20
+10/10 [==============================] - 31s 3s/step - loss: 2.6720e-05 - accuracy: 1.0000
+Epoch 9/20
+10/10 [==============================] - 32s 3s/step - loss: 2.5635e-05 - accuracy: 1.0000
+Epoch 10/20
+10/10 [==============================] - 31s 3s/step - loss: 2.4820e-05 - accuracy: 1.0000
+Epoch 11/20
+10/10 [==============================] - 31s 3s/step - loss: 2.3536e-05 - accuracy: 1.0000
+Epoch 12/20
+10/10 [==============================] - 31s 3s/step - loss: 2.2287e-05 - accuracy: 1.0000
+Epoch 13/20
+10/10 [==============================] - 31s 3s/step - loss: 2.1333e-05 - accuracy: 1.0000
+Epoch 14/20
+10/10 [==============================] - 32s 3s/step - loss: 2.0648e-05 - accuracy: 1.0000
+Epoch 15/20
+10/10 [==============================] - 32s 3s/step - loss: 1.9594e-05 - accuracy: 1.0000
+Epoch 16/20
+10/10 [==============================] - 32s 3s/step - loss: 1.8557e-05 - accuracy: 1.0000
+Epoch 17/20
+10/10 [==============================] - 32s 3s/step - loss: 1.7846e-05 - accuracy: 1.0000
+Epoch 18/20
+10/10 [==============================] - 31s 3s/step - loss: 1.7226e-05 - accuracy: 1.0000
+Epoch 19/20
+10/10 [==============================] - 31s 3s/step - loss: 1.6746e-05 - accuracy: 1.0000
+Epoch 20/20
+10/10 [==============================] - 32s 3s/step - loss: 1.5689e-05 - accuracy: 1.0000
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ vggface_senet50 (Functional  (None, 1, 1, 2048)       26092144
+ )
+
+ flatten (Flatten)           (None, 2048)              0
+
+ classifier (Dense)          (None, 6)                 12294
+
+=================================================================
+Total params: 26,104,438
+Trainable params: 12,294
+Non-trainable params: 26,092,144
+_________________________________________________________________
+--> F:\LiT\vid_reader\verified_dataset\eval_set\chandler_medieval.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\chandler_old.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\chandler_young.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\joey_medieval.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\joey_old.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\joey_young.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\monika_medieval.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\monika_old.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\monika_young.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\phoebe_medieval.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\phoebe_old.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\phoebe_young.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\rachel_medieval.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\rachel_old.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\rachel_young.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\ross_medieval.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\ross_old.png (224, 224, 3)
+--> F:\LiT\vid_reader\verified_dataset\eval_set\ross_young.png (224, 224, 3)
+[0, 0, 0, 1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5]
+1/1 [==============================] - 3s 3s/step - loss: 0.0178 - accuracy: 1.0000
+loss :  0.01779872179031372 acc :  1.0
+2022-12-01 19:26:40.666909: W tensorflow/python/util/util.cc:368] Sets are not currently considered sequences, but this may change in the future, so consider avoiding using them.
+2022-12-01 19:27:31.763516: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:357] Ignored output_format.
+2022-12-01 19:27:31.790250: W tensorflow/compiler/mlir/lite/python/tf_tfl_flatbuffer_helpers.cc:360] Ignored drop_control_dependency.
+2022-12-01 19:27:32.143879: I tensorflow/cc/saved_model/reader.cc:43] Reading SavedModel from: C:\Users\USER\AppData\Local\Temp\tmpua8_q3bu
+2022-12-01 19:27:32.334760: I tensorflow/cc/saved_model/reader.cc:78] Reading meta graph with tags { serve }
+2022-12-01 19:27:32.335379: I tensorflow/cc/saved_model/reader.cc:119] Reading SavedModel debug info (if present) from: C:\Users\USER\AppData\Local\Temp\tmpua8_q3bu
+2022-12-01 19:27:34.087668: I tensorflow/cc/saved_model/loader.cc:228] Restoring SavedModel bundle.
+2022-12-01 19:27:40.432374: I tensorflow/cc/saved_model/loader.cc:212] Running initialization op on SavedModel bundle at path: C:\Users\USER\AppData\Local\Temp\tmpua8_q3bu
+2022-12-01 19:27:41.195387: I tensorflow/cc/saved_model/loader.cc:301] SavedModel load for tags { serve }; Status: success: OK. Took 9054157 microseconds.
+2022-12-01 19:27:43.338654: I tensorflow/compiler/mlir/tensorflow/utils/dump_mlir_util.cc:237] disabling MLIR crash reproducer, set env var `MLIR_CRASH_REPRODUCER_DIRECTORY` to enable.
+WARNING:absl:Buffer deduplication procedure will be skipped when flatbuffer library is not properly loaded
+
+F:\LiT\vid_reader\verified_dataset>
