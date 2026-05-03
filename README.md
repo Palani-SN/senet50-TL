@@ -1,4 +1,4 @@
-# senet5 - Transfer Learning
+# senet50 - Transfer Learning
 
 - Example code to build a customized face prediction model based on vgg16-senet50 pretrained model to identify faces from trained dataset, output of the code looks as shown below
 
